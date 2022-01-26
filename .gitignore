@@ -20,3 +20,8 @@ bin-release/
 /data/dataset_distribution
 /data/Audio
 
+__pycache__
+*.wav
+*.mp4
+.vscode
+.idea
